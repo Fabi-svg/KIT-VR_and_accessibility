@@ -42,56 +42,30 @@ Writing the literature review chapter of a scientific paper involves several key
 
 Remember that the literature review is not merely a summary of existing research but a critical analysis that highlights the significance of your research and the gaps you aim to fill. It should demonstrate your understanding of the field and establish the rationale for your study.
 
-## Search Engines for Papers
-
-There are several platforms and databases where you can search for scientific papers. Here are some widely used ones:
-
-- Google Scholar: Google Scholar is a search engine that indexes scholarly literature, including articles, theses, books, and conference papers. It provides a broad range of disciplines and is useful for finding both peer-reviewed and non-peer-reviewed sources.
-
-- IEEE Xplore: IEEE Xplore is a digital library that provides access to scientific and technical content in the fields of engineering, computer science, and related disciplines. It includes journals, conference proceedings, standards, and more.
-
-- ScienceDirect: ScienceDirect is an extensive database that offers access to a wide range of scientific, technical, and medical research. It includes journals, books, and conference proceedings across various disciplines.
-
-- JSTOR: JSTOR is a digital library that provides access to scholarly journals, books, and primary sources in the humanities, social sciences, and other fields. It contains a vast collection of articles from different disciplines.
-
-- ACM Digital Library: The ACM Digital Library is a repository of literature in the field of computer science and information technology. It includes articles from ACM journals, conference proceedings, magazines, and more.
-
-- arXiv: arXiv is a preprint server that hosts papers from various scientific disciplines, including physics, mathematics, computer science, and more. It is a platform for early dissemination of research before formal peer review.
-
-- Scopus: Scopus is a large abstract and citation database that covers a wide range of disciplines. It includes peer-reviewed journals, conference papers, and patents, offering comprehensive coverage of scientific literature.
-
-- Web of Science: Web of Science is a multidisciplinary database that provides access to high-quality research literature, including journals, conference proceedings, and patents. It offers citation searching and analysis features.
-
-- ResearchGate: ResearchGate is a social networking site for researchers and scientists. It allows users to share and discover research papers, collaborate with peers, and connect with experts in various fields.
-
-These platforms can serve as starting points for your search. Remember to refine your search terms, utilize advanced search features, and evaluate the relevance and quality of the sources you find. Additionally, many scientific papers may be accessible through academic libraries or institutional subscriptions, so consider checking with your institution's library for access to specific journals or databases.
-
-## Keywords
+## Topics
 
 - Architectural Barriers for disabilities
 - Virtual Reality Simulations
 
 ## Links _ Architectural Barriers for disabilities
 
-### Architectural Barriers to Persons With Disabilities in Businesses in an Urban Community
+### 1 _ Architectural Barriers to Persons With Disabilities in Businesses in an Urban Community
+- Abstract <br>
+    It is the purpose of this study to determine the frequency of architectural barriers to persons with disabilities in businesses in a small urban community in central Virginia. The survey was conducted by a trained volunteer using a one-page checklist. Only 27% of the businesses had no architectural barriers to individuals with disabilities. The most common architectural barrier for individuals with disabilities was the interference with parking and entrance into the business (65%). Faced with these architectural barriers, all individuals are encouraged to identify the architectural barriers in businesses and to file letters of complaints to the Department of Justice requesting their removal.
+- Keywords <br>
+    Disabled, persons disability, community, frequency of architectural barriers, common barriers, parking, entrance, America.
+- Citation <br>
+    Helen C. Ahn and others, Architectural Barriers to Persons With Disabilities in Businesses in an Urban Community, The Journal of Burn Care & Rehabilitation, Volume 15, Issue 2, March-April 1994, Pages 176–179, https://doi.org/10.1097/00004630-199403000-00014
 
-#### Abstract
-It is the purpose of this study to determine the frequency of architectural barriers to persons with disabilities in businesses in a small urban community in central Virginia. The survey was conducted by a trained volunteer using a one-page checklist. Only 27% of the businesses had no architectural barriers to individuals with disabilities. The most common architectural barrier for individuals with disabilities was the interference with parking and entrance into the business (65%). Faced with these architectural barriers, all individuals are encouraged to identify the architectural barriers in businesses and to file letters of complaints to the Department of Justice requesting their removal.
-#### Keywords
-disabled, persons disability, community
-#### Citation
-Helen C. Ahn and others, Architectural Barriers to Persons With Disabilities in Businesses in an Urban Community, The Journal of Burn Care & Rehabilitation, Volume 15, Issue 2, March-April 1994, Pages 176–179, https://doi.org/10.1097/00004630-199403000-00014
+### 2 _ Architectural Barriers: a Perspective on Progress
 
-### Architectural Barriers: a Perspective on Progress
+- Abstract <br>
+    Over the past twenty-five years, laws have been enacted mandating that buildings be designed and constructed to be accessible to persons with handicaps. The implementation of these laws with barrier-free design standards, which also developed in this period, has led to significant process in the involvement of disabled persons in the fabric of American society. Accessible design is currently in an age of implementation. It is apparently on a projected course where "handicapped design" will' ultimately be so fully integrated into the creative process that it will be part of "universal design" in which architects and designers maximize the number of users and their experiences in a facility.
+- Keywords <br>
+    Architectural barriers, laws, barrier-free design standards, accessible design, America.
+- Citation <br>
+    Charles D. Goldman, ARCHITECTURAL BARRIERS: A PRESPECTIVE ON PROGRESS, 5 W. New Eng. L. Rev. 465 (1983), http://digitalcommons.law.wne.edu/lawreview/vol5/iss3/8
 
-#### Abstract
-Over the past twenty-five years, laws have been enacted mandating that buildings be designed and constructed to be accessible to persons with handicaps. The implementation of these laws with barrier-free design standards, which also developed in this period, has led to significant process in the involvement of disabled persons in the fabric of American society. Accessible design is currently in an age of implementation. It is apparently on a projected course where "handicapped design" will' ultimately be so fully integrated into the
-creative process that it will be part of "universal design" in which architects and designers maximize the number of users and their experiences in a facility. 
-#### Keywords
-Architectural barriers, laws, accessible design, America
-#### Citation
-Charles D. Goldman, ARCHITECTURAL BARRIERS: A PRESPECTIVE ON PROGRESS, 5 W. New Eng. L. Rev. 465 (1983),
-http://digitalcommons.law.wne.edu/lawreview/vol5/iss3/8
 
 ### The perspective of children and youth: How different stakeholders identify architectural barriers for inclusion in schools
 
@@ -146,20 +120,17 @@ Wheelchair accessibility,public buildings, urban planning, design
 #### Citation
 A. Nilay Evcil (2009) Wheelchair accessibility to public buildings in Istanbul, Disability and Rehabilitation: Assistive Technology, 4:2, 76-85, https://doi.org/10.1080/17483100802543247
 
-### Wheelchair accessibility of public buildings: a review of the literature
+### 8 _ Wheelchair accessibility of public buildings: a review of the literature
 
-#### Abstract
-Purpose. The purpose of this review was to examine the wheelchair accessibility in public buildings and discuss the role of professional in this practice area.
-
-Method. Of the 85 originally identified publications from a search of major electronic bibliographic databases, 12 studies relating to wheelchair accessibility in public buildings were selected. The compliance rates with wheelchair accessibility in different areas were summarised.
-
-Results. No study reported 100% wheelchair accessibility despite the enforcement of existing laws and regulations. Parking had the lowest compliance rate among all facilities in terms of accessibility, while entrances had the highest.
-
-Conclusions. A global review is needed of both new and old buildings regarding wheelchair accessibility. Professional in this practice area has an important role to play in advocating wheelchair accessibility and assisting wheelchair users to participate fully in all areas of the community.
-#### Keywords
-Wheelchair use, barrier-free environment, community, public buildings
-#### Citations
-Nandana Welage & Karen P. Y. Liu (2011) Wheelchair accessibility of public buildings: a review of the literature, Disability and Rehabilitation: Assistive Technology, 6:1, 1-9, https://doi.org/10.3109/17483107.2010.522680
+- Abstract <br>
+    Purpose. The purpose of this review was to examine the wheelchair accessibility in public buildings and discuss the role of professional in this practice area.
+    Method. Of the 85 originally identified publications from a search of major electronic bibliographic databases, 12 studies relating to wheelchair accessibility in public buildings were selected. The compliance rates with wheelchair accessibility in different areas were summarised.
+    Results. No study reported 100% wheelchair accessibility despite the enforcement of existing laws and regulations. Parking had the lowest compliance rate among all facilities in terms of accessibility, while entrances had the highest.
+    Conclusions. A global review is needed of both new and old buildings regarding wheelchair accessibility. Professional in this practice area has an important role to play in advocating wheelchair accessibility and assisting wheelchair users to participate fully in all areas of the community.
+- Keywords <br>
+    Wheelchair use, barrier-free environment, community, public buildings, literature review, parking, plan or transform.
+- Citations <br>
+    Nandana Welage & Karen P. Y. Liu (2011) Wheelchair accessibility of public buildings: a review of the literature, Disability and Rehabilitation: Assistive Technology, 6:1, 1-9, https://doi.org/10.3109/17483107.2010.522680
 
 ### Disability Law in Germany: An Overview of Employment, Education and Access Rights
 
@@ -179,29 +150,126 @@ Perceived accessibility, urban mobility, comparative research, sustainable acces
 #### Citation
 Anna-Lena van der Vlugt, Angela Curl & Dirk Wittowsky (2019) What about the people? Developing measures of perceived accessibility from case studies in Germany and the UK, Applied Mobilities, 4:2, 142-162, https://doi.org/10.1080/23800127.2019.1573450
 
-| Common barriers / types of barriers |
-| --------------------------------- |
-| |
+### Topics
 
-| Laws / Guidelines in Germany |
-| ---------------------------- |
-| |
+| Terminology |
+| ----------- |
+| The common access pathways are defined as routes. [8] |
+
+
+| Common barriers / types of barriers |
+| ----------------------------------- |
+| three major areas of activities that were affected, namely parking and entrances, goods and services and restrooms. A later study also singled out parking and entrances. [8] |
+| wheelchair accessibility in different areas of public buildings, and most assessed parking, routes, ramps, entrances, restrooms, phones, water fountains and elevators, which are the facilities most commonly used by visitors, including both wheelchair users and the general population. [8] |
+| parking facilities, which were found to have the least degree of compliance with wheelchair accessibility requirements. [8] |
+| The compliance rates with regard to wheelchair routes (including the width of route turns and curbs) ranged. [8] |
+|  accessibility to water fountains. [8] |
+| food courts and dressing rooms in shopping centres. [8] |
+| restaurant accessibility by examining table height and knee clearance. [8] |
+| accessibility of grocery and convenience stores by assessing the height of racks and the width of aisles. [8] |
+| Five major areas have been identified as important areas of accessibility, namely parking, routes, ramps, entrances and restrooms. [8] |
+| Parking lots have no assigned parking spaces for individuals with disabilities. Van-accessible parking places are a rariety. [1] |
+| Sidewalks without a curbcut, making it impossible to crosss the street. [1] |
+| Access to buildings. [1] |
+| Stairs without an accessible ramp. [1] |
+|The aisles in the stores are so narrow that they prevent access to an inividual in a wheelchair. [1] |
+| The products sold in stores are positioned on shelves that cannot be reached by individuals with disabilities. [1] |
+|check-out aisles in the stores are usually not accessible. [1] |
+| Public restrooms for individuals in wheelchairs are often not accessible. Without an elevated toilet and grab bars, persons with disabilities cannot transfer to the toilet without assistance. [1] |
+| The most common architectural barrier for individuals with disabilities was the interference with parking and entrance into the business (65%). [1] |
+| The most common architectural barrier for individual with disabilities was interference with parking and entrance (65%), followed by those in goods and services (40%), and then by those in restrooms (42%). (listed in order of priority according to priority) [1]|
+| Title III of the ADA has established the following three suggested priorities for barrier removal. First, remove barriers from parking areas, sidewalks, and entrances to the public accomodations so that a person with a disability can get through the door. Second, remove barriers where goods and services are provided. Third, remove barriers to restroom facilities when they are open to the public. [1] |
+
+
+
+| Laws / Guidelines |
+| ----------------- |
+| Wheelchair accessibility to public buildings is often regulated by the legal system. An example of this would be the Americans with Disabilities Act (ADA) of 1990, which was an outcome of the independent living movement and the disability rights movement. In 1993, the United Nations General Assembly adopted standard rules to equalise opportunities for persons with disabilities. Rule 5 specifically targets accessibility, declaring that ‘states should introduce programmes of action to make the physical environment accessible’. In addition, individual governments have taken steps to ensure accessibility for disabled persons, and a gradual reduction in architectural barriers has occurred as a result. However, difficulties still remain for wheelchair users in using public building facilities throughout the world. [8] |
+| Ramps are an important element of building accessibility and their absence obviously makes it much harder for wheelchair users to enter buildings and perform required activities. A ramp slope should have a 1:12 gradient for independent wheelchair propelling, and a level landing area at both the top and bottom is essential. [8] |
+| accessibility to building entrances [...]  it was mentioned that doors were often too heavy, or in the case of double doors, the width of one leaf was less than the ideal width of 32 inches. [8] |
+| accessibility to restrooms [...] The major problems were narrow doorways, narrow spaces for wheelchair maneuvering, lack of grab bars or reachable hand driers, and lack of designated restrooms. [8] |
+| accessibility to elevators for wheelchair users [...] freight elevators, so their locations were not convenient for wheelchair users or passengers in general. These elevators usually had several unsatisfactory features; for example, they frequently had heavy manual doors, and the height of the controls, the entrances, and the levelling of the elevator to the outside area were often not suitable for wheelchair users. With advances in technology, features suitable for wheelchair users can be built in, such as automatic doors and spacious room inside the elevators. [8] |
+| ADA criteria of public telephone.  However, wheelchair accessibility to public telephone facilities is less essential today given the widespread use of cellular telephones. [8] |
+| Americans with Disabilities Act (ADA) is the World's first comprehensive civil rights legislation for people with disabilities, and it was a historic benchmark and milestone in America's commitment to full and equal opportunity of all of its citizens. Title III (of the ADA) forbids discrimination by public accomodations and services, affecting all the business in our country. [...] As a public accomodation, the business ,ust not biscriminate against a person with a disability in the goods, services, facilities, and accomodations provided by the business. [1] |
+| The ADA requires the business to remove architectural barriers to access when it is "readily achievable" to do so. The ADA defines readily achievable as easily accomplishable and able to be carried out without much difficulty or expense. The standard does not require business to remove barriers when extensive restructuring or burdensome expense is involved. Requires barrel removal for a particular business will depend on its financial resources and no other resources. The readily achievable standard is intended to be a flexible one on a case-by-case basis. [1] |
 
 | Participation in barriers identification |
 | ---------------------------------------- |
 | |
 
-| Accessibility concept / evolution |
-| --------------------------------- |
-| |
+| Accessibility concept / evolution / goals |
+| ----------------------------------------- |
+| achieve full social participation. [8] |
+| users’ participation in community activities [8] |
+| Four studies found that recently constructed buildings were more compliant with wheelchair accessibility requirements than were older buildings. [8] |
+| All these four studies showed the trend of increasing compliance rate when buildings were constructed in recent years. [8] |
+| It was encouraging to see that action was taken by building management when they were notified of the identified deficiencies: 25% of the buildings underwent renovation based on the studies’ suggestions and recommendations. Thus, professional in this practice area and/or designers such as architects or urban planners can play a key role in advocating the importance of a barrier-free environment to the lives of people with disabilities and thus help to bring about change. [8] |
+| With the enforcement of international disability acts, public buildings are undergoing gradual renovations to become more wheelchair accessible. [...] Nevertheless, the findings of this review show that architectural barriers to wheelchair users persist in public buildings despite wheelchair accessibility being a legal requirement in many countries. [...] enforced accessibility guidelines would be necessary to ensure that wheelchair users have the opportunity for social integration and access to community resources.  These areas are essential for wheelchair users to be able to enter buildings and participate in required activities [8] |
+| Community integration involves multiple concerns, including environmental, psychological and social factors. In terms of environmental factors, restrictions on mobility may be the most common way of handicapping individuals with disabilities. To create a barrier-free environment is not only important for wheelchair users but also for other people with disabilities, as well as the elderly population, pregnant women and mothers with infants. [8] |
+| People with disabilities have been faced with restrictions and limitations, subjected to a history of purposeful unequal treatment, and relegated to a position of political powerlessness in our society. Our nation's (USA) proper goals are to ensure quality of opportunity, full participation, independent living, and economic self-sufficiency for persons with diabilities. The law itself notes that the continuing existence of unfair and unnecessary discrimination and prejudice denies perople with disabilities the opportunity to compete on an equal basis and to pursue those opportunities for which our free society is justifiably famous. This denial costs the United States billions of dollars in unnecessary expenses, resultiong in dependency and nonproductivity. The purpose of the AMericans with Disabilities Act is to provide clear and comprehensice national mandate for the elimination of discrimination for individuals with disabilities. [1] |
+
+| Accessibility Concept Evolution |
+| ------------------------------- |
+| Accessible design is currently in an age of implementation. It is apparently on a projected course where "handicapped design" will ultimately be so fully integrated into the creative process that it will be part of "universal design" in which  architects and designers maximize the number of users and their experiences in a facility. [2] |
 
 | Accessibility awareness |
 | ----------------------- |
 | |
 
+| What is Accessibility |
+| ----------------------- |
+|  The term ‘accessibility’ refers to the degree to which an environment (e.g., a site, facility, workplace, service or programme) can be approached, entered, operated in, or used safely and with dignity by people with disabilities. [8] |
+| |
+
+| Accessibility impact |
+| --------------------------------- |
+| Access to public buildings is important for people with disabilities as it could enhance their active participation in the community and allow them to contribute both socially and economically. [8] |
+| Architectural barriers are discriminatory in that they deny qualified persons their most basic of rights: access to and participation in  society. Accessibility permeates all other aspects of disabled persons' civil rights. Without access,rights to equal employment opportunity, rights to be "abroad in the land," and the full panoply of  protections and duties can be rendered meaningless. [2] |
+| I.M. Pei notes the need to go beyond mere access: "Spatial relationships need to be experienced. Persons with disabilities must be 
+able to enjoy the psychological aspects of astructure, not only the individual points or planes within it. This is a concept that will develop over the next few years. [2] |
+
 | Accessibility measure |
 | --------------------------------- |
-| |
+| It is commonly quantified using the percentage of compliance, which is calculated as the number of facilities complying with wheelchair accessibility requirements over the total number of facilities measured. [8] |
+
+| Universal Design |
+| --------------------------------- |
+| Design to accommodate persons with disabilities was and has continued to be primarily conceptualized for the ambulatory-impaired person, particularly one in a wheelchair. An emerging theme is that of universal design. There is a recognition that design which is functional for persons with handicaps is also utilitarian for the elderly, the very young, and the temporarily disabled. Curb cuts and ramps serve baby strollers as well as wheelchairs and serve as channels for pedestrians. The Handicapped Affairs Office of San Antonio has found that fifty-six percent of the community benefits from barrier free design. [...] There is a growing awareness that disability does not denote inability, that disabled persons are users rather than abusers, and that the individual with a disability pays taxes as does any other citizen. [...] Persons with disabilities are increasingly participating in the design process, bringing unprecedented firsthand knowledge. [...] These groups attest 
+to the benefit of having disability experienced groups participate in the design process. [2] |
+| Congressman Paul Simon, chairman of the House of Representatives Post Secondary Education Subcommittee, has observed the change in attitudes in the higher education community. Representative Simon notes that there is a "recognition of the reality of the need for accessibility. He believes that to adapt to this change of attitude, architects need to become creatively realistic in devising acces changes. [2] |
+| Itzhak Perlman, a most creative musician, believes that with rich imagination, aesthetics and accessibility can be blended. Accessibility is compatible with other design considerations. [2] |
+| Consumers and their organizations are moving to protect their hard-fought gains, fearful that the economy will be used as an excuse by those unfamiliar with or opposed to accessibility. This movement has put a premium on the issuance of a clear, uniform standard for accessibility that can be easily understood and implemented. As understanding increases, the costs of implementation decrease because errors are avoided with the use of standard design practice. [...]  Architect Ron Mace has a similar perspective, recognizing the need for a clear uniform standard that can be supported and then implemented. A clear uniform standard will be assimilated into accepted architectural practice. Accessibility  specifications that are part of a universal design standard will be implemented readily because the design features will be available on a 
+mass produced, rather than special effects, basis. [...] A true uniform standard will catalyze more consistent design practice and, in turn, greater voluntary compliance. [2] |
+| As more persons with different disabilities enter the mainstream, technology will be challenged to meet their needs. The focus will be on a greater number of people experiencing a building and a recognition of the practicality of universal design, which benefits all citizens for the same cost. [2] |
+| Department of Rehabilitation, is seeking to implement universal design. The designs will be functional for the able-bodied and disabled. The grade level entrance that serves the mobility impaired also serves the baby carriage brigade. The design features add nominal cost to the structure, which has a longer useful life for its occupant. Lamentably, the older people get, the less able-bodied they become. The adaptability features enable people to make accommodations as disabilities occur. The features are aesthetically pleasing and make the house more marketable as it is suitable for the total range of buyers, not only those who are able-bodied. [2] |
+| A critic recently wrote: "Each and every building is a product of numerous forces--economic, social, cultural, political, functional, and aesthetic-and must be evaluated in terms of how well it has responded to all of these forces. There is little doubt that handicapped persons and barrier free design are forces which are now and should continue to be significant factors in the totality of building design. As the building design process evolves towards greater accessibility, legal issues will inevitablyarise. [2] |
+
+| Participation in Design |
+| --------------------------------- |
+| Studies by the National League of Cities and the United States General Accounting Office have led to an acceptance of the proposition that accessibility features cost less than one percent, often less than one-half of one percent of the cost of new construction. Alteration projects can be more expensive, depending on the exact nature of the work involved. [...] The phasing-in of accessibility has been found to ease the cost burden. [2] |
+
+
+### Questions
+- Number of wheelchair users/blind/deaf/... in Europe/germany/Baden-Wuttenberg 
+[cfr. 1.6 million wheelchair
+users live in the community in the USA. This means
+that approximately 1 in every 200 community
+dwellers require the use of a wheelchair. Although
+no exact figures exist for developing countries, the
+number of wheelchair users may be similar to or even
+exceed that of the USA.]
+
+### Reading Progress
+| Number | Title | Obtained | Read |
+| :----: | ----- | :------: | :--: |
+| 1 | Architectural Barriers to Persons with Disabilities in Businesses in an Urban Community | Yes | Yes |
+| 2 |  | Yes | No |
+| 3 |  | Yes | No |
+| 4 |  | Yes | No |
+| 5 |  | Yes | No |
+| 6 |  | Yes | No |
+| 7 |  | Yes | No |
+| 8 | Wheelchair accessibility of public buildings: a review of the literature | Yes | Yes |
 
 
 ## Links _ Virtual Reality Simulations
