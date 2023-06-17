@@ -67,23 +67,25 @@ Remember that the literature review is not merely a summary of existing research
     Charles D. Goldman, ARCHITECTURAL BARRIERS: A PRESPECTIVE ON PROGRESS, 5 W. New Eng. L. Rev. 465 (1983), http://digitalcommons.law.wne.edu/lawreview/vol5/iss3/8
 
 
-### The perspective of children and youth: How different stakeholders identify architectural barriers for inclusion in schools
+### 3 _ The perspective of children and youth: How different stakeholders identify architectural barriers for inclusion in schools
 
-#### Abstract
-Recent inclusive policies are promoting the involvement of individuals with disabilities in identifying barriers that limit their full participation and inclusion in public spaces. The present two studies explored the contributions provided by different stakeholder groups in the identification of architectural barriers in elementary and secondary schools. In each school, the principal, special education resource teacher and a student independently identified architectural barriers using an observational walkthrough method. The first study consisted of 29 schools where the student evaluator had a physical disability and the second study consisted of 22 schools where the student evaluator did not have a disability. The results of both studies showed that students identified the greatest number of barriers and principals the least. The type and location of identified barriers are explored and the conclusions are examined in relation to person-environment congruence. The results highlight the efficacy of youth involvement and provide support for collaborative assessments that equitably involve all stakeholders in inclusive environmental assessments.
-#### Keywords
-Inclusive environmental assessmentChild and youth participationChildren with disabilitiesArchitectural barriersAccessibilitySchools
-#### Citation
-Pivik, Jayne. (2010). The perspective of children and youth: How different stakeholders identify architectural barriers for inclusion in schools. Journal of Environmental Psychology. 510-517. https://www.researchgate.net/publication/222824936_The_perspective_of_children_and_youth_How_different_stakeholders_identify_architectural_barriers_for_inclusion_in_schools
+- Abstract <br>
+    Recent inclusive policies are promoting the involvement of individuals with disabilities in identifying barriers that limit their full participation and inclusion in public spaces. The present two studies explored the contributions provided by different stakeholder groups in the identification of architectural barriers in elementary and secondary schools. In each school, the principal, special education resource teacher and a student independently identified architectural barriers using an observational walkthrough method. The first study consisted of 29 schools where the student evaluator had a physical disability and the second study consisted of 22 schools where the student evaluator did not have a disability. The results of both studies showed that students identified the greatest number of barriers and principals the least. The type and location of identified barriers are explored and the conclusions are examined in relation to person-environment congruence. The results highlight the efficacy of youth involvement and provide support for collaborative assessments that equitably involve all stakeholders in inclusive environmental assessments.
+- Keywords <br>
+    Inclusive environmental assessment, child and youth participation, children with disabilities, architectural barriers, accessibility, schools.
+- Citation <br>
+    Pivik, Jayne. (2010). The perspective of children and youth: How different stakeholders identify architectural barriers for inclusion in schools. Journal of Environmental Psychology. 510-517. https://www.researchgate.net/publication/222824936_The_perspective_of_children_and_youth_How_different_stakeholders_identify_architectural_barriers_for_inclusion_in_schools
 
-### Public space without architectural barriers as friendly and accessible for people with disabilities
+    Pivik, J. R. (2010). The perspective of children and youth: How different stakeholders identify architectural barriers for inclusion in schools. Journal of Environmental Psychology, 30(4), 510–517. doi:10.1016/j.jenvp.2010.02.005
 
-#### Abstract
-Accessible public space for people with disabilities is the space where there are no barriers that prevent them from normal functioning in a given place. In this paper, there was collected a number of examples of most common barriers and design guidelines needed to plan or transform space into the accessible one. There was also described type of barriers and factors that affect on the accessibility of the public space.
-#### Keywords
-universal design; designing for disabled; accessibility; public space; architectural barriers
-#### Citation
-Rawski, K. (2017). Public space without architectural barriers as friendly and accessible for people with disabilities. Teka Komisji Architektury, Urbanistyki I Studiów Krajobrazowych, 13(2), 45-52. https://doi.org/10.35784/teka.1700
+### 4 _ Public space without architectural barriers as friendly and accessible for people with disabilities
+
+- Abstract <br>
+    Accessible public space for people with disabilities is the space where there are no barriers that prevent them from normal functioning in a given place. In this paper, there was collected a number of examples of most common barriers and design guidelines needed to plan or transform space into the accessible one. There was also described type of barriers and factors that affect on the accessibility of the public space.
+- Keywords <br>
+    Universal design, designing for disabled, accessibility, public space, architectural barriers, common barriers examples, design guidelines, plan or transform, type of barriers, factors that affect accessibility.
+- Citation <br>
+    Rawski, K. (2017). Public space without architectural barriers as friendly and accessible for people with disabilities. Teka Komisji Architektury, Urbanistyki I Studiów Krajobrazowych, 13(2), 45-52. https://doi.org/10.35784/teka.1700
 
 ### Beyond Architectural Barriers: Building a Bridge Between Disability and Universal Design
 
@@ -155,6 +157,20 @@ Anna-Lena van der Vlugt, Angela Curl & Dirk Wittowsky (2019) What about the peop
 | Terminology |
 | ----------- |
 | The common access pathways are defined as routes. [8] |
+| Ensuring inclusion requires compatibility between the person or group's functional capacity and their environment, in other words person-environment congruence. Personeenvironment congruence is generally defined as the degree of fit between an individual's needs, capabilities and aspirations and the resources, demands and opportunities provided by the environment. [3] |
+| Elementary ergonomic design aims were defined as: a technical compensation for inability to normal function in society for disabled people, eliminating any external barriers (e.g. architectural) that hinder the daily existence of people with disa-bilities. [4] |
+| Architectural barrier according to universal design: any object in a public space that causes mobility problems or reduces access for any group of users (disabled, elderly, low and high persons, travelers, people with wheelchairs, pregnant women, cyclists etc.). [4] |
+
+
+| Disability concept |
+| ------------------ |
+| An increasing number of people with disabilities is a significant problem. It has been noted that from year to year number of disabled people in the whole world are rising up. There are many factors that may be respon-sible for this situation. Among these are civilizational diseases, road and sport accidents, aging society, and psychological burden related to stress. According to World Health Organization disabilities is an umbrella term, covering impairments, activity limitations, and participation restrictions. An impairment is a problem in body function or structure; an activity limitation is a difficulty encountered by an individual in execut-ing a task or action; while a participation restriction is a problem experienced by an individual in involvement in life situations. Thus disability is a complex phenomenon, reflecting an interaction between features of a person’s body and features of the society in which he or she lives [4] |
+| Central Statistical Office of Poland (GUS) based on National Census of Population and Housing 2011 estimates, that in Poland about 12,2% people from the entire population have various dysfunctions, that is about 4,7 million people . Of course, some of these dysfunctions do not interfere so much with normal functioning and are not conducive to the spread the phenomenon of social exclusion. Despite this, people responsible for spatial planning should include disabled people in designing process. [4] |
+
+| Type of disabilities |
+| -------------------- |
+| Biophysical impairments (cerebral palsy, spina bifida, cystic fibrosis, muscular dystrophy, paralysis, arthritis or rheumatism), with one student identified as “legally blind”. The majority used assistive devices (manual wheelchair, electric wheelchair or crutches/walker). [3] |
+| In order to better understand needs of people with disabilities, the knowledge about the types of their diseases is useful. The biggest problems with moving around the public space have people with: vision disabilities (blind, visually impaired), physical disabilities (moving in wheelchairs, chronic diseases of internal organs), hearing disabilities (deaf) and mental disabilities (cerebral palsy, mentally retarded). [4] |
 
 
 | Common barriers / types of barriers |
@@ -179,7 +195,71 @@ Anna-Lena van der Vlugt, Angela Curl & Dirk Wittowsky (2019) What about the peop
 | The most common architectural barrier for individuals with disabilities was the interference with parking and entrance into the business (65%). [1] |
 | The most common architectural barrier for individual with disabilities was interference with parking and entrance (65%), followed by those in goods and services (40%), and then by those in restrooms (42%). (listed in order of priority according to priority) [1]|
 | Title III of the ADA has established the following three suggested priorities for barrier removal. First, remove barriers from parking areas, sidewalks, and entrances to the public accomodations so that a person with a disability can get through the door. Second, remove barriers where goods and services are provided. Third, remove barriers to restroom facilities when they are open to the public. [1] |
-
+| A series of focus group sessions with 15 students with mobility impairments, asking them to identify the barriers at their schools. The students identified accessibility barriers associated with doors, ramps, hallways, elevators, classrooms, washrooms, playgrounds and fixtures such as lockers and water fountains. [3] |
+| Barriers existing in public space may be related to communication paths, overcoming height differences, entrances to the buildings, equipment elements and the infrastructures associated to transport. [...] 
+Most commonly encountered barriers on the communication paths: 
+- bad technical condition, 
+- unhardened surface, 
+- uneven or too slip surface, 
+- too narrow sidewalks, 
+- lack of tactile paving for blind people. 
+Guidelines for removing these barriers: 
+- main pedestrian routes should be rectilinear and changes of its directions should be as close as it pos-sible to the right angle; 
+- the longitudinal slope should not exceed 6% (to provide more comfort for people moving in wheelchair even 5%), and cross slope maximum 2% 
+- the path width should be not less than 150 cm, (its allowing comfort manoeuvring of the wheelchair), it can be reduced to 120 cm, if the length of this part does not exceed 20 m;
+- the width of main avenues with bigger traffic on both sides should be at least 200 cm to provide com-fortable passing by [Kowalski 2011];
+- the surface must be flat and rough enough to eliminate the possibility of stumbling or slipping [Czarnecki and Siemiński 2004];
+- additional elements on surfaces – tactile paving, that have a different factures depending on its func-tions (attention, directional and warning) should be provided for the blind people in strategic places;
+- it is recommended to use durable materials to provide good technical condition
+Most commonly encountered barriers related to overcoming height differences: 
+- lack of ramps or elevators at the stairs,
+- too steep wheelchair ramps,
+- unmarked lower and upper edges of stairs,no handrail at the stairs,
+- construction of steps in areas with a slight difference in terrain,
+- bad technical condition
+Guidelines for removing these barriers:
+- instead of designing stairs, a long smooth slopes should be planned when is impossible, when it is not, in addition to the stairs should be also included the ramps;
+- usable width of the wheelchair ramp must be at least of 120 cm;
+- if it is necessary to use longer ramps, they should be divided into shorter sections (single section can-not exceed 9 m) utilizing landings, that cannot be shorter than 1.4 m, (in case of change direction, there should be ensured movement area with minimum dimensions of 1.5×1.5 m);
+- at the end and the beginning of the ramp, it has to be placed flat manoeuvring area; 
+- on both sides of the ramp should be designed a handrail at heights of 75 cm and 90 cm, parallel to the surface [Budny 2009]; 
+- allowable slope of the ramp depends of the height differences and its location (outdoor or indoor);
+- single steps should be avoided;in case of more than 10 steps in flight of stairs, there must be applied landings;
+- the most comfortable steps are between 12 to 15 cm high and depth about 35 cm;
+- there is no need to design railings, when the height difference is less than 0,5 m; 
+- flight of stairs should be at least of 1,2 m, and the railings should be attached at of 90 cm, (pair of rail-ings at 75 and 90 cm is not obligatory). 
+- the first and last step should be marked with a contrasting stripe;
+- it is recommended to design 0,5 m of tactile pavement (warning field) 0,6÷0,8 m before and after flight of stairs
+Most commonly encountered barriers related to space equipment: 
+- placement of elements within the sidewalks gauge,
+- insufficient maneuvering space nearby the devices or lack of that, 
+- badly designed height of usable elements (too low or too high), 
+- wrong placed or to weak lighting
+Guidelines for removing these barriers:
+- equipment should be grouped together and form rows, that are parallel to the main axis of the path [NDA 2002];
+- designed elements should not reduce the usable width of the path;
+- information boards should be placed outside the paths and follow the rules of safe arrangement;
+- parking meters should be placed to available for people with disabilities and its nearest space should be enough for manoeuvring; 
+- functional parts of devices cannot be higher than arm of person in wheelchair can reach what is estimat-ed as 130 cm maximally; 
+- important informations at the equipment in public space should be also written in braille language and the space before it should be marked by tactile pavement (field of attention);
+- fountains must be separated from the pedestrian parts with utilizing belt of greenery or through the use of warning components
+Most commonly encountered barriers related to infrastructures associated to transport: 
+- narrow bus stops;
+- bus stops with unpaved platforms;
+- badly designed bus bays (access to the edge of the platform is impossible);lack low curbs; 
+- unspecified passage through the road; no warning tactile fields at the pedestrian crossings; 
+- pedestrian crossings without refuge islands on two-way multi-lane roads;
+- lack of parking places dedicated to the disabled
+Guidelines for removing these barriers:
+- car parks should contain wider (3,6 m) parking places for disabled (their amount depends on the amount of all places); 
+- curb higher than 2 cm, should contain ramp with a maximally 5% slope;
+- blind and visually impaired people needs tactile warning fields before pedestrian crossings in contrast-ing colour and located along the street with at least 0,5 m width;
+- traffic light should make audible signal and include buttons that activate green light located on height from 0,9 to 1,1 m;
+- bus stop shed (with depth about 150−180 cm) should be distant from the warning tactile paving min. 80 cm to allow passage of wheelchair;
+- tactile warning lane over the entire length of the platform should be 30 or 40 cm wide at a distance of 80 cm from the edge of the platform;
+- it is recommended to raise the platform to a height of 20cm to make easier get in the bus for wheel-chair users; 
+- the edge of the platform should be marked by contrast strip (yellow recommended) with a width of 7 or 10 cm on the entire platform length; [4] |
+| The existence of barriers in public space also depends on the proper management of given space. Well planned accessibility may be lost over time due to lack of maintenance of key components. Seasons can also have influ-ence of the space accessibility. Bad weather conditions can contribute to creation of new barriers, especially in the winter. To name a few, bad snow shoveling, snowdrifts and icy surfaces can be the big obstacles for disa-bled. [4] |
 
 
 | Laws / Guidelines |
@@ -192,10 +272,29 @@ Anna-Lena van der Vlugt, Angela Curl & Dirk Wittowsky (2019) What about the peop
 | ADA criteria of public telephone.  However, wheelchair accessibility to public telephone facilities is less essential today given the widespread use of cellular telephones. [8] |
 | Americans with Disabilities Act (ADA) is the World's first comprehensive civil rights legislation for people with disabilities, and it was a historic benchmark and milestone in America's commitment to full and equal opportunity of all of its citizens. Title III (of the ADA) forbids discrimination by public accomodations and services, affecting all the business in our country. [...] As a public accomodation, the business ,ust not biscriminate against a person with a disability in the goods, services, facilities, and accomodations provided by the business. [1] |
 | The ADA requires the business to remove architectural barriers to access when it is "readily achievable" to do so. The ADA defines readily achievable as easily accomplishable and able to be carried out without much difficulty or expense. The standard does not require business to remove barriers when extensive restructuring or burdensome expense is involved. Requires barrel removal for a particular business will depend on its financial resources and no other resources. The readily achievable standard is intended to be a flexible one on a case-by-case basis. [1] |
+| On the basis of Polish law and literature related to universal design and accessibility standards, there was de-fined architectural barriers in public space and types of them. There were also collected a number of guidelines for design new or transform already existing places in public space into more accessible for the people with disabilities. These guidelines were divided by their type and they concern parameters related to: communication paths, height differences, space equipment, infrastructure associated to transport. [4] |
+| Need of ensuring equality to all the people, including those with disabilities is mentions in Polish Constitution (Art. 30, 32, 68 and 69) and also the international normalizations. In 1982 „World Programme of Action Concerning Disabled Persons” was formulated and adopted by resolution of United Nations. This programme assumes meeting three major objectives: Prevention, Rehabilitation, Equalization of opportunities.It was granted that tasks from these areas should be realized in many levels, involving many fields of knowl-edge, in particular technical, medical and humanistic and also in cooperation with different professionals like architects or town planners. [4] |
+
 
 | Participation in barriers identification |
 | ---------------------------------------- |
-| |
+| Students with disabilities reported more barriers in their schools than either their principal or the SERT. [3] |
+| Unexpected result of students without disabilities reporting more barriers than either their principal or SERT, the data was further explored to determine the type of barrier (mobility, visual, hearing). [...]  The students who had disabilities (where most had a mobility disability) reported the greatest number of mobility barriers; For example, many described items not identified by any other group, such as locker hooks which are too high, inaccessible counters or the fear of being trapped during a fire, need for visual strips on stairs for those with balance problems. [3] |
+| The plant supervisors were not evaluating, and thus missing, barriers associated with classrooms, passageways, stairs, water fountains, libraries, science labs, music rooms and recreational facilities. [3] |
+| In their search for architectural barriers in schools, students, SERTS and principals saw the same environments differently. This
+finding provides support for the theory that one's role in the environment may be useful in the examination of differential perception. [...] Of particular interest is the greater number of barriers identified by the students in both studies compared to the other two stakeholder groups. These studies clearly highlight the capabilities of youth in conducting an inclusive environmental assessment. [...] Further, these two studies confirm previous findings that youth provide a unique perspective in evaluating environments compared to adults. [3] |
+| The fact that students significantly identified the greatest number of barriers for recreational facilities reinforces the importance of social and recreational inclusion as a valued factor for inclusive assessments. More surprising was the significant difference in the number of
+identified barriers between students without disabilities and their principals and SERTS. Possible explanations include: 1) students routinely visit more areas of the school than the principal or SERT and thus have greater familiarity; 2) the students paid more attention to the task; 3) students were less concerned about a negative evaluation; or, 4) the students had greater disability awareness.  The fact that the rincipals mostly identified barriers near their offices (e.g., entranceway and front door) and students from both studies identified more barriers in the classrooms, libraries and recreational facilities, suggests that familiarity as a result of motoric exposure may have played a role. [3] |
+| It was believed that principals would identify more barriers in those areas that related to potential litigation. [...] SERTs appeared to focus on these barriers instead of those associated with learning environments such as classrooms and libraries. This suggests that the role of SERTs focused more on physical inclusion and less on educational support. [3] |
+| The results of these studies support collaborative environmental assessment methods and inclusive planning efforts. Differences
+between stakeholders in the same environment were found for the total number of barriers identified and in some cases, where they
+were located. With principals identifying the least number of barriers in the typical walkthrough format and students identifying
+barriers not reviewed by plant supervisors, the current system is lacking. A collaborative assessment method would provide a more
+comprehensive evaluation by incorporating feedback from all relevant stakeholders within the environment. [...] User involvement in
+design planning, results in greater satisfaction with the environment by meeting the user's needs and values and providing a sense
+of mastery and competence. [3] |
+
+
 
 | Accessibility concept / evolution / goals |
 | ----------------------------------------- |
@@ -208,18 +307,24 @@ Anna-Lena van der Vlugt, Angela Curl & Dirk Wittowsky (2019) What about the peop
 | Community integration involves multiple concerns, including environmental, psychological and social factors. In terms of environmental factors, restrictions on mobility may be the most common way of handicapping individuals with disabilities. To create a barrier-free environment is not only important for wheelchair users but also for other people with disabilities, as well as the elderly population, pregnant women and mothers with infants. [8] |
 | People with disabilities have been faced with restrictions and limitations, subjected to a history of purposeful unequal treatment, and relegated to a position of political powerlessness in our society. Our nation's (USA) proper goals are to ensure quality of opportunity, full participation, independent living, and economic self-sufficiency for persons with diabilities. The law itself notes that the continuing existence of unfair and unnecessary discrimination and prejudice denies perople with disabilities the opportunity to compete on an equal basis and to pursue those opportunities for which our free society is justifiably famous. This denial costs the United States billions of dollars in unnecessary expenses, resultiong in dependency and nonproductivity. The purpose of the AMericans with Disabilities Act is to provide clear and comprehensice national mandate for the elimination of discrimination for individuals with disabilities. [1] |
 
+
+
 | Accessibility Concept Evolution |
 | ------------------------------- |
 | Accessible design is currently in an age of implementation. It is apparently on a projected course where "handicapped design" will ultimately be so fully integrated into the creative process that it will be part of "universal design" in which  architects and designers maximize the number of users and their experiences in a facility. [2] |
+
 
 | Accessibility awareness |
 | ----------------------- |
 | |
 
+
 | What is Accessibility |
 | ----------------------- |
 |  The term ‘accessibility’ refers to the degree to which an environment (e.g., a site, facility, workplace, service or programme) can be approached, entered, operated in, or used safely and with dignity by people with disabilities. [8] |
-| |
+| The United Nations (1993) defines accessibility is an “equalization of opportunities in all spheres of society” (5th Standard Rule on the Equalization of Opportunities for Persons with Disabilities). The Canadian Standards Association (1995) defines accessibility as “a program, activity, meeting, hearing, or other event or process that is readily usable by an individual, regardless of his or her abilities. When used in reference to a building or facility, it means that a facility can be approached, entered and used by any individual, regardless of his or her abilities”. For the purposes of the present studies, accessibility is defined as “the absence of barriers or anything that prevents a person with a disability from fully participating in all aspects of society because of his or her disability, including a physical barrier, an architectural barrier, an information or communications barrier, an attitudinal barrier, a technological barrier, a policy or a practice” (Ontarians with Disabilities Act, Ministry of Citizenship, 2001). Relatedly, environmental barriers refer to obstacles impacting participation and activity by individuals with disabilities in physical or natural spaces. [3] |
+| Accessible public space for people with disabilities is the space where there are no barriers that prevent them from normal functioning in a given place. [4] |
+
 
 | Accessibility impact |
 | --------------------------------- |
@@ -227,15 +332,25 @@ Anna-Lena van der Vlugt, Angela Curl & Dirk Wittowsky (2019) What about the peop
 | Architectural barriers are discriminatory in that they deny qualified persons their most basic of rights: access to and participation in  society. Accessibility permeates all other aspects of disabled persons' civil rights. Without access,rights to equal employment opportunity, rights to be "abroad in the land," and the full panoply of  protections and duties can be rendered meaningless. [2] |
 | I.M. Pei notes the need to go beyond mere access: "Spatial relationships need to be experienced. Persons with disabilities must be 
 able to enjoy the psychological aspects of astructure, not only the individual points or planes within it. This is a concept that will develop over the next few years. [2] |
+| Inaccessible schools are a particularly salient issue for children with disabilities, considering the amount of time spent in these environments. [...] Schools that have students with disabilities are still riddled with accessibility barriers and stigmatizing attitudes by others [3] |
+| A biopsychosocial conceptualization of health highlights the role of the environment as a crucial determinant in functioning and development; where access restrictions can have a negative impact. [3] |
+| Architectural barriers have very important influence to life quality of the people with disabilities. In many cas-es, the existence of such barriers hinders or even prevents them from using public services. [4] |
 
-| Accessibility measure |
+
+| Accessibility measure/evaluation |
 | --------------------------------- |
 | It is commonly quantified using the percentage of compliance, which is calculated as the number of facilities complying with wheelchair accessibility requirements over the total number of facilities measured. [8] |
+| Inclusive environmental assessments use a variety of methods to identify barriers to accessibility and participation, including:
+objective checklists, subjective assessments such as questionnaires, surveys, focus groups or interviews of stakeholders or a process
+called post-occupancy evaluation. [3] |
+| subjective assessment tool is The Facilitators and Barriers Survey [...] Post-occupancy evaluations [...] One popular method for direct observation is the “walkthrough method” which involves walking through the environment and noting those elements which contravene building codes, association standards or users' needs. [...] Objective assessments can provide a level of standardization across difference spaces, however, the evaluation is static and may miss unique elements specific to that space (that are not included on the checklist). Subjective assessments typically include feedback from relevant stakeholders; however, the information is often retrospective and dependent on recall. Post-occupancy evaluations, while extensive, can be costly and timeconsuming, with the conclusions usually based on the perspective of the architect or planning professional. [3] |
+| The subjective barrier assessment instrument simulated the typical method used for assessing barriers within schools. Namely, participants were instructed to walk through their school and list all accessibility barriers noticed. The given definition of an accessibility barrier was“things which stop or make it difficult for a person with a disability from doing what everybody else can or cause a person to be treated
+differently because of a disability. [...] Scoring consisted of recording the number of barriers identified in the following categories: entranceway, ramps, doors, passageways, washrooms, signage and safety, water fountains, elevators, classrooms, stairs, libraries, recreational facilities, and other, as well as the total number of barriers found per school. An objective checklist was used as a template to determine if an itemwas a barrier. [3] |
+
 
 | Universal Design |
 | --------------------------------- |
-| Design to accommodate persons with disabilities was and has continued to be primarily conceptualized for the ambulatory-impaired person, particularly one in a wheelchair. An emerging theme is that of universal design. There is a recognition that design which is functional for persons with handicaps is also utilitarian for the elderly, the very young, and the temporarily disabled. Curb cuts and ramps serve baby strollers as well as wheelchairs and serve as channels for pedestrians. The Handicapped Affairs Office of San Antonio has found that fifty-six percent of the community benefits from barrier free design. [...] There is a growing awareness that disability does not denote inability, that disabled persons are users rather than abusers, and that the individual with a disability pays taxes as does any other citizen. [...] Persons with disabilities are increasingly participating in the design process, bringing unprecedented firsthand knowledge. [...] These groups attest 
-to the benefit of having disability experienced groups participate in the design process. [2] |
+| Design to accommodate persons with disabilities was and has continued to be primarily conceptualized for the ambulatory-impaired person, particularly one in a wheelchair. An emerging theme is that of universal design. There is a recognition that design which is functional for persons with handicaps is also utilitarian for the elderly, the very young, and the temporarily disabled. Curb cuts and ramps serve baby strollers as well as wheelchairs and serve as channels for pedestrians. The Handicapped Affairs Office of San Antonio has found that fifty-six percent of the community benefits from barrier free design. [...] There is a growing awareness that disability does not denote inability, that disabled persons are users rather than abusers, and that the individual with a disability pays taxes as does any other citizen. [...] Persons with disabilities are increasingly participating in the design process, bringing unprecedented firsthand knowledge. [...] These groups attest to the benefit of having disability experienced groups participate in the design process. [2] |
 | Congressman Paul Simon, chairman of the House of Representatives Post Secondary Education Subcommittee, has observed the change in attitudes in the higher education community. Representative Simon notes that there is a "recognition of the reality of the need for accessibility. He believes that to adapt to this change of attitude, architects need to become creatively realistic in devising acces changes. [2] |
 | Itzhak Perlman, a most creative musician, believes that with rich imagination, aesthetics and accessibility can be blended. Accessibility is compatible with other design considerations. [2] |
 | Consumers and their organizations are moving to protect their hard-fought gains, fearful that the economy will be used as an excuse by those unfamiliar with or opposed to accessibility. This movement has put a premium on the issuance of a clear, uniform standard for accessibility that can be easily understood and implemented. As understanding increases, the costs of implementation decrease because errors are avoided with the use of standard design practice. [...]  Architect Ron Mace has a similar perspective, recognizing the need for a clear uniform standard that can be supported and then implemented. A clear uniform standard will be assimilated into accepted architectural practice. Accessibility  specifications that are part of a universal design standard will be implemented readily because the design features will be available on a 
@@ -243,6 +358,8 @@ mass produced, rather than special effects, basis. [...] A true uniform standard
 | As more persons with different disabilities enter the mainstream, technology will be challenged to meet their needs. The focus will be on a greater number of people experiencing a building and a recognition of the practicality of universal design, which benefits all citizens for the same cost. [2] |
 | Department of Rehabilitation, is seeking to implement universal design. The designs will be functional for the able-bodied and disabled. The grade level entrance that serves the mobility impaired also serves the baby carriage brigade. The design features add nominal cost to the structure, which has a longer useful life for its occupant. Lamentably, the older people get, the less able-bodied they become. The adaptability features enable people to make accommodations as disabilities occur. The features are aesthetically pleasing and make the house more marketable as it is suitable for the total range of buyers, not only those who are able-bodied. [2] |
 | A critic recently wrote: "Each and every building is a product of numerous forces--economic, social, cultural, political, functional, and aesthetic-and must be evaluated in terms of how well it has responded to all of these forces. There is little doubt that handicapped persons and barrier free design are forces which are now and should continue to be significant factors in the totality of building design. As the building design process evolves towards greater accessibility, legal issues will inevitablyarise. [2] |
+| Every person have the same right to use the public space, that is why barrier-free design is so important. However, the individual elements of space for one disabled can be an obstacle, and for others not. [4] |
+| Universal design based on seven principles: 1. Equitable use (providing the same means of use for all users),2. Flexibility in use (providing a choice in methods of use),3. Simple and intuitive (eliminating unnecessary complexity and providing consistency with user expecta-tions and intuition),4. Perceptible information (using different modes for additional presentation of essential information and increasing its legibility),5. Tolerance for error (arranging elements of design to minimize risk and errors and providing fail safe features),6. Low physical effort (allowing user to maintain a neutral body position with minimum fatigue while us-ing the design),7. Size and space for approach and use (independently from user’s body size or mobility provide adequate access, reach and use). [4] |
 
 | Participation in Design |
 | --------------------------------- |
@@ -263,9 +380,9 @@ exceed that of the USA.]
 | Number | Title | Obtained | Read |
 | :----: | ----- | :------: | :--: |
 | 1 | Architectural Barriers to Persons with Disabilities in Businesses in an Urban Community | Yes | Yes |
-| 2 |  | Yes | No |
-| 3 |  | Yes | No |
-| 4 |  | Yes | No |
+| 2 | Architectural Barriers: a Perspective on Progress | Yes | Yes |
+| 3 | The perspective of children and youth: How different stakeholders identify architectural barriers for inclusion in schools | Yes | No |
+| 4 | Public space without architectural barriers as friendly and accessible for people with disabilities | Yes | Yes |
 | 5 |  | Yes | No |
 | 6 |  | Yes | No |
 | 7 |  | Yes | No |
