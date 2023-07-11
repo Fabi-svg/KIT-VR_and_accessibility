@@ -55,7 +55,8 @@ Remember that the literature review is not merely a summary of existing research
 - Keywords <br>
     Disabled, persons disability, community, frequency of architectural barriers, common barriers, parking, entrance, America.
 - Citation <br>
-    Helen C. Ahn and others, Architectural Barriers to Persons With Disabilities in Businesses in an Urban Community, The Journal of Burn Care & Rehabilitation, Volume 15, Issue 2, March-April 1994, Pages 176–179, https://doi.org/10.1097/00004630-199403000-00014
+    Ahn, H.C., McGovern, E.E., Walk, E.E., Edlich, R.F. (1994) Architectural barriers to persons with disabilities in businesses in an urban community. The Journal of Burn Care & Rehabilitation, Volume 15, Issue 2, Pages 176–179, https://doi.org/10.1097/00004630-199403000-00014
+    
 
 ### 2 _ Architectural Barriers: a Perspective on Progress
 
@@ -132,7 +133,7 @@ A. Nilay Evcil (2009) Wheelchair accessibility to public buildings in Istanbul, 
 - Keywords <br>
     Wheelchair use, barrier-free environment, community, public buildings, literature review, parking, plan or transform.
 - Citations <br>
-    Nandana Welage & Karen P. Y. Liu (2011) Wheelchair accessibility of public buildings: a review of the literature, Disability and Rehabilitation: Assistive Technology, 6:1, 1-9, https://doi.org/10.3109/17483107.2010.522680
+    Nandana Welage & Karen P. Y. Liu (2011) Wheelchair accessibility of public buildings: a review of the literature, Disability and Rehabilitation: Assistive Technology, 6:1, 1-9, https://doi.org/10.3109/1748f3107.2010.522680
 
 ### Disability Law in Germany: An Overview of Employment, Education and Access Rights
 
@@ -151,6 +152,23 @@ As a primary objective in transport planning urban neighbourhood accessibility p
 Perceived accessibility, urban mobility, comparative research, sustainable access.
 #### Citation
 Anna-Lena van der Vlugt, Angela Curl & Dirk Wittowsky (2019) What about the people? Developing measures of perceived accessibility from case studies in Germany and the UK, Applied Mobilities, 4:2, 142-162, https://doi.org/10.1080/23800127.2019.1573450
+
+### 22 _ Evaluation of building use scenarios by crowd simulations and immersive virtual environments: a case study
+
+- Abstract <br>
+    Virtual reality (VR) is becoming common in the AEC/FM industry, closely linked to BIM implementation. VR tools can be used to anticipate operational issues, simulating them in a virtual prototype since early design. The paper investigates such a topic in relation to access, space and use performance of an existing hospital facility. A case study has been developed considering a pavilion where both medical and food spaces are located, causing a clash between flows of end-users in critical time-slots. Crowd simulations and immersive virtual environments have been tested as occupancy evaluation tools. Post-occupancy evaluation (POE) data have been translated into a dynamic simulation of the existing occupancy conditions within the BIModel of the pavilion and considering various profiles of end-users. Subsequently, both the BIModel and the crowd simulation have been imported into a game engine to be visualised and experienced in a VR headset, switching from the analysis of flows to the perspective of end-users (i.e. able-bodied users, person in a wheelchair, visually-impaired person). The use of VR enables a clear visualisation and communication of the existing conditions. Moreover, POE data translated into a dynamic simulation of the building use scenario could be applied for the pre occupancy evaluation of internal layout reconfigurations. Finally, the combined use of crowd simulation and immersive VR enables the users to perceive crowding in the occupancy evaluation and adds the user experience as design input, representing an innovative approach that goes beyond traditional resources such as personal experience and regulations.
+- Keywords <br>
+    Occupancy evaluation, virtual reality, crowd simulation, immersive virtual environment, building performance.
+- Citations <br>
+    Mastrolembo Ventura, S., Hilfert, T., Archetti, M., Rizzi, M., Spezia, A., Tagliabue, L.C., Oliveri, E., Ciribini, A.L.C. (2018). Evaluation of Building Use Scenarios by Crowd Simulations and Immersive Virtual Environments: A Case Study. https://core.ac.uk/download/pdf/162433282.pdf
+
+### 23 _ The capabilities of people with cognitive disabilities
+- Abstract <br>
+    People with cognitive disabilities are equal citizens, and law ought to show respect for them as full equals. To do so, law must provide such people with equal entitlements to medical care, housing, and other economic needs. But law must also go further, providing people with disabilities truly equal access to education, even when that is costly and involves considerable change in current methods of instruction. The central theme of this essay is what is required in order to give such people political and civil rights on a basis of genuine equality.
+- Keywords <br>
+    Capabilities, civil rights, cognitive disability, constitutional law, economic entitlements, education, equality, human dignity, justice, mental dis-ability, political entitlements, Rawls, social entitlements.
+- Citations <br>
+    Nussbaum, M. (2009), The capabilities of people with cognitive disabilities. Metaphilosophy, 40: 331-351. https://doi.org/10.1111/j.1467-9973.2009.01606.x
 
 ### Topics
 
@@ -179,7 +197,7 @@ Anna-Lena van der Vlugt, Angela Curl & Dirk Wittowsky (2019) What about the peop
 | wheelchair accessibility in different areas of public buildings, and most assessed parking, routes, ramps, entrances, restrooms, phones, water fountains and elevators, which are the facilities most commonly used by visitors, including both wheelchair users and the general population. [8] |
 | parking facilities, which were found to have the least degree of compliance with wheelchair accessibility requirements. [8] |
 | The compliance rates with regard to wheelchair routes (including the width of route turns and curbs) ranged. [8] |
-|  accessibility to water fountains. [8] |
+| Accessibility to water fountains. [8] |
 | food courts and dressing rooms in shopping centres. [8] |
 | restaurant accessibility by examining table height and knee clearance. [8] |
 | accessibility of grocery and convenience stores by assessing the height of racks and the width of aisles. [8] |
@@ -188,9 +206,9 @@ Anna-Lena van der Vlugt, Angela Curl & Dirk Wittowsky (2019) What about the peop
 | Sidewalks without a curbcut, making it impossible to crosss the street. [1] |
 | Access to buildings. [1] |
 | Stairs without an accessible ramp. [1] |
-|The aisles in the stores are so narrow that they prevent access to an inividual in a wheelchair. [1] |
+| The aisles in the stores are so narrow that they prevent access to an inividual in a wheelchair. [1] |
 | The products sold in stores are positioned on shelves that cannot be reached by individuals with disabilities. [1] |
-|check-out aisles in the stores are usually not accessible. [1] |
+| check-out aisles in the stores are usually not accessible. [1] |
 | Public restrooms for individuals in wheelchairs are often not accessible. Without an elevated toilet and grab bars, persons with disabilities cannot transfer to the toilet without assistance. [1] |
 | The most common architectural barrier for individuals with disabilities was the interference with parking and entrance into the business (65%). [1] |
 | The most common architectural barrier for individual with disabilities was interference with parking and entrance (65%), followed by those in goods and services (40%), and then by those in restrooms (42%). (listed in order of priority according to priority) [1]|
@@ -214,7 +232,7 @@ Guidelines for removing these barriers:
 Most commonly encountered barriers related to overcoming height differences: 
 - lack of ramps or elevators at the stairs,
 - too steep wheelchair ramps,
-- unmarked lower and upper edges of stairs,no handrail at the stairs,
+- unmarked lower and upper edges of stairs,no handrail at the stairs,
 - construction of steps in areas with a slight difference in terrain,
 - bad technical condition
 Guidelines for removing these barriers:
@@ -224,7 +242,7 @@ Guidelines for removing these barriers:
 - at the end and the beginning of the ramp, it has to be placed flat manoeuvring area; 
 - on both sides of the ramp should be designed a handrail at heights of 75 cm and 90 cm, parallel to the surface [Budny 2009]; 
 - allowable slope of the ramp depends of the height differences and its location (outdoor or indoor);
-- single steps should be avoided;in case of more than 10 steps in flight of stairs, there must be applied landings;
+- single steps should be avoided; in case of more than 10 steps in flight of stairs, there must be applied landings;
 - the most comfortable steps are between 12 to 15 cm high and depth about 35 cm;
 - there is no need to design railings, when the height difference is less than 0,5 m; 
 - flight of stairs should be at least of 1,2 m, and the railings should be attached at of 90 cm, (pair of rail-ings at 75 and 90 cm is not obligatory). 
@@ -274,6 +292,9 @@ Guidelines for removing these barriers:
 | The ADA requires the business to remove architectural barriers to access when it is "readily achievable" to do so. The ADA defines readily achievable as easily accomplishable and able to be carried out without much difficulty or expense. The standard does not require business to remove barriers when extensive restructuring or burdensome expense is involved. Requires barrel removal for a particular business will depend on its financial resources and no other resources. The readily achievable standard is intended to be a flexible one on a case-by-case basis. [1] |
 | On the basis of Polish law and literature related to universal design and accessibility standards, there was de-fined architectural barriers in public space and types of them. There were also collected a number of guidelines for design new or transform already existing places in public space into more accessible for the people with disabilities. These guidelines were divided by their type and they concern parameters related to: communication paths, height differences, space equipment, infrastructure associated to transport. [4] |
 | Need of ensuring equality to all the people, including those with disabilities is mentions in Polish Constitution (Art. 30, 32, 68 and 69) and also the international normalizations. In 1982 „World Programme of Action Concerning Disabled Persons” was formulated and adopted by resolution of United Nations. This programme assumes meeting three major objectives: Prevention, Rehabilitation, Equalization of opportunities.It was granted that tasks from these areas should be realized in many levels, involving many fields of knowl-edge, in particular technical, medical and humanistic and also in cooperation with different professionals like architects or town planners. [4] |
+| At least where primary and secondary education are concerned, adequacy does appear to require something close to equality, or at least a very high minimum (perhaps allowing for divergences in aspects of education that are not firmly linked to basic opportunity and political participation). Whether higher education and nonessential health care are matters in which we may accept unequal shares as compatible with the threshold of adequacy, remains a question that societies will have to hammer out.[23] |
+| Education [for people with cognitive disabilities] is somewhat more complicated and controversial, since equal respect recommends policies that are very expensive. Here, however, law has gotten in ahead of us, and the analysis I recommend is already not just statutory law, under the Individuals with Disabilities Education Act (IDEA), but is also supported by constitutional law [in the United States]. [...] At least where primary and secondary education are concerned, adequacy does appear to require something close to equality, or at least a very high minimum (perhaps allowing for divergences in aspects of education that are not firmly linked to basic opportunity and political participation). Whether higher education and nonessential health care are matters in which we may accept unequal shares as compatible with the threshold of adequacy, remains a question that societies will have to hammer out. [...] The guiding idea of the Disabilities Education Act (IDEA) is that children with disabilities are individuals, equal in dignity to ‘‘normal’’ children, and that, in consequence, education should be based on a careful individualized consideration of a child’s educational needs. I’ve said that equal protection and equal respect do not require equality of educational outcomes. In that sense, the approach in education has a good deal in common with the approach in the area of mobility, and thus it might seem to be an adequacy approach, not an equality approach. The whole point of the approach, however, is to ensure that no special disadvantages accrue to children with disabilities in virtue of their disability. They are equally placed in the education process, and equally supported—which, in their case, requires a lot of affirmative measures and extra expense. After that, like all children, they will achieve at different rates and attain different levels. So the equality is in the concern, and the strenuous requirements it imposes. [23] |
+
 
 
 | Participation in barriers identification |
@@ -293,6 +314,7 @@ barriers not reviewed by plant supervisors, the current system is lacking. A col
 comprehensive evaluation by incorporating feedback from all relevant stakeholders within the environment. [...] User involvement in
 design planning, results in greater satisfaction with the environment by meeting the user's needs and values and providing a sense
 of mastery and competence. [3] |
+| The possibility to support user-centred design processes and stakeholder engagement by immersive technology has been considered. [...] Immersive VR could be an effective tool to analyse the accessibility of building spaces, going beyond codes, regulations and computable parameters and implementing the dynamic simulation of how the building is/will be used. [...] Immersive VR could be used as a training tool to learn how a person with disabilities moves and acts within the space. [...]  The combined use of crowd simulation and immersive VR, in fact, enables the users to perceive crowding in the occupancy evaluation and adds the user experience as a design input, representing an innovative approach that goes beyond traditional resources such as personal experience and regulations. This application may support the validation of design proposals, the evaluation of current in-use scenarios and a better understanding of how end-users perceive the space and its performance in meeting their needs [22] |
 
 
 
@@ -346,6 +368,7 @@ called post-occupancy evaluation. [3] |
 | subjective assessment tool is The Facilitators and Barriers Survey [...] Post-occupancy evaluations [...] One popular method for direct observation is the “walkthrough method” which involves walking through the environment and noting those elements which contravene building codes, association standards or users' needs. [...] Objective assessments can provide a level of standardization across difference spaces, however, the evaluation is static and may miss unique elements specific to that space (that are not included on the checklist). Subjective assessments typically include feedback from relevant stakeholders; however, the information is often retrospective and dependent on recall. Post-occupancy evaluations, while extensive, can be costly and timeconsuming, with the conclusions usually based on the perspective of the architect or planning professional. [3] |
 | The subjective barrier assessment instrument simulated the typical method used for assessing barriers within schools. Namely, participants were instructed to walk through their school and list all accessibility barriers noticed. The given definition of an accessibility barrier was“things which stop or make it difficult for a person with a disability from doing what everybody else can or cause a person to be treated
 differently because of a disability. [...] Scoring consisted of recording the number of barriers identified in the following categories: entranceway, ramps, doors, passageways, washrooms, signage and safety, water fountains, elevators, classrooms, stairs, libraries, recreational facilities, and other, as well as the total number of barriers found per school. An objective checklist was used as a template to determine if an itemwas a barrier. [3] |
+| CEs have highlighted the possibility to experience building spaces from the perspective of the endusers as positive input in the decision-making process. [22] |
 
 
 | Universal Design |
@@ -360,6 +383,7 @@ mass produced, rather than special effects, basis. [...] A true uniform standard
 | A critic recently wrote: "Each and every building is a product of numerous forces--economic, social, cultural, political, functional, and aesthetic-and must be evaluated in terms of how well it has responded to all of these forces. There is little doubt that handicapped persons and barrier free design are forces which are now and should continue to be significant factors in the totality of building design. As the building design process evolves towards greater accessibility, legal issues will inevitablyarise. [2] |
 | Every person have the same right to use the public space, that is why barrier-free design is so important. However, the individual elements of space for one disabled can be an obstacle, and for others not. [4] |
 | Universal design based on seven principles: 1. Equitable use (providing the same means of use for all users),2. Flexibility in use (providing a choice in methods of use),3. Simple and intuitive (eliminating unnecessary complexity and providing consistency with user expecta-tions and intuition),4. Perceptible information (using different modes for additional presentation of essential information and increasing its legibility),5. Tolerance for error (arranging elements of design to minimize risk and errors and providing fail safe features),6. Low physical effort (allowing user to maintain a neutral body position with minimum fatigue while us-ing the design),7. Size and space for approach and use (independently from user’s body size or mobility provide adequate access, reach and use). [4] |
+| "takes into consideration especially the needs of persons with visual impairments, blind persons, persons with hearing impairments (deafness, late-onset deafness, hard of hearing) or with motor impairments, and persons using mobility aids and wheelchairs. Other groups, such as persons of short or tall stature, persons with cognitive impairments, older persons, children, and persons with baby carriages or luggage, will benefit from some of the require ments of this standard. [Guideline: Accessibility in Building Design, pag. 51] |
 
 | Participation in Design |
 | --------------------------------- |
